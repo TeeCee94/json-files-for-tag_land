@@ -1,0 +1,18 @@
+[
+    {
+    "housePix": [
+    "assets/images/houses/house1.jpeg",
+    "assets/images/houses/house2.jpeg",
+    "assets/images/houses/house3.jpeg",
+    "assets/images/houses/house4.jpeg",
+    "assets/images/houses/house5.jpeg",
+    "assets/images/houses/house6.jpeg",
+    "assets/images/houses/house7.jpeg",
+    "assets/images/houses/house8.jpeg"
+    ]
+},
+{
+    "carouselText": "Discover, Buy, Sell, Rent, Lease, Invest in Real Estate Properties",
+    "buttonText": "Get Started"
+}
+]

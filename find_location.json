@@ -1,0 +1,15 @@
+[
+    {"appbar": {"text": "Find Location"}},
+
+    {
+        "leading": {
+            "icon": "Icons.location_on",
+            "title": "Main Address",
+            "subtitle": "Palm Groove Road, Ikeja Lagos",
+            "trailing": "Icons.arrow_forward"
+        }
+    },
+    {
+        "elevatedbutton": {"text": "Choose Address"}    
+    }
+]

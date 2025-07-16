@@ -1,0 +1,5 @@
+{
+    "image": "assets/images/houses/house2.jpeg",
+    "onPressed": "Navigator.push(context, MaterialPageRoute(builder: (context) => Signup()),);",
+    "text": "'Join as a Buyer'"
+}

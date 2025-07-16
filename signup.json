@@ -1,0 +1,30 @@
+[
+{
+    "image": "'https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg'"
+},
+
+{
+"listtile": [
+    {
+        "title": "Sign Up",
+        "subtitle": "Create an account to get started"
+    }
+]
+},
+
+{
+    "textbutton":{
+        "text": "Login",
+        "onPressed": "Navigator.push(context, MaterialPageRoute(builder: (context) => Login()),);"
+    }
+},
+
+{
+    "elevatedButton":[
+        {
+            "text": "Sign Up",
+            "onPressed": "Navigator.push(context, MaterialPageRoute(builder: (context) => SignupSuccess()),);"
+        }
+    ]
+}
+]
